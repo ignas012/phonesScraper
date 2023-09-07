@@ -32,7 +32,7 @@ Follow the on-screen installation instructions that are specific to your platfor
 
 Create in MongoDB database named `phone_data` and collection name `phones`
 
-## Prodving database information 
+## Providing database information 
 
 Since the database information is not critical and this project is open, there is no need to store the database login information in environment variables. Database login information can be passed in `settings.py`
 
